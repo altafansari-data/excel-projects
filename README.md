@@ -21,7 +21,7 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
 
 ## Filter(slicer)
 
-<img width="103" height="304" alt="filter" src="https://github.com/user-attachments/assets/14402434-2cf7-4974-b03c-ed9a626bd983" />
+  <img width="103" height="304" alt="filter" src="https://github.com/user-attachments/assets/14402434-2cf7-4974-b03c-ed9a626bd983" />
 
 
 
@@ -57,7 +57,7 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
   <img width="306" height="235" alt="how they like to order" src="https://github.com/user-attachments/assets/f58ace60-1508-4fca-9a4a-10e702de3581" />
 
 
- - How long we take to ship the orders
+- How long we take to ship the orders
    
   <img width="327" height="173" alt="11" src="https://github.com/user-attachments/assets/63fb5b49-c6eb-4593-9049-6f38c1296f8a" />
 
