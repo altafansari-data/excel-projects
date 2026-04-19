@@ -59,7 +59,7 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
 
  - How long we take to ship the orders
    
-<img width="327" height="173" alt="11" src="https://github.com/user-attachments/assets/63fb5b49-c6eb-4593-9049-6f38c1296f8a" />
+  <img width="327" height="173" alt="11" src="https://github.com/user-attachments/assets/63fb5b49-c6eb-4593-9049-6f38c1296f8a" />
 
 
 - How happy are our customers?
@@ -69,7 +69,7 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
 
 - Where do our customers live?
 
-<img width="284" height="276" alt="13" src="https://github.com/user-attachments/assets/e1d3f765-b230-4d0b-96f7-488a9f3f3b99" />
+  <img width="284" height="276" alt="13" src="https://github.com/user-attachments/assets/e1d3f765-b230-4d0b-96f7-488a9f3f3b99" />
 
 
 ## Outcome
