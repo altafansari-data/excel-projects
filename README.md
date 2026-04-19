@@ -19,6 +19,11 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
   <img width="154" height="287" alt="KPIs" src="https://github.com/user-attachments/assets/0d50ba32-b5cd-41e0-b957-37b585d085e3" />
 
 
+## Filter(slicer)
+
+<img width="103" height="304" alt="filter" src="https://github.com/user-attachments/assets/14402434-2cf7-4974-b03c-ed9a626bd983" />
+
+
 
 ## Key Analysis
 - Trend in the last 13 weeks
@@ -53,19 +58,18 @@ This project focuses on analyzing e-commerce sales data using Microsoft Excel. T
 
 
  - How long we take to ship the orders
-<img width="582" height="30" alt="image" src="https://github.com/user-attachments/assets/43bd179d-f420-457a-9822-55aeade5e517" />\
+   
+<img width="327" height="173" alt="11" src="https://github.com/user-attachments/assets/63fb5b49-c6eb-4593-9049-6f38c1296f8a" />
 
 
 - How happy are our customers?
-<img width="582" height="30" alt="image" src="https://github.com/user-attachments/assets/5e517055-bb47-40b2-8de4-80ff58a68199" />
+
+  <img width="326" height="181" alt="12" src="https://github.com/user-attachments/assets/018e9f36-b3f3-42e5-a4ab-909c9f393173" />
 
 
 - Where do our customers live?
-<img width="582" height="30" alt="image" src="https://github.com/user-attachments/assets/b495083b-6c29-4ae8-87f5-548497a4ef91" />
 
-
-
-  
+<img width="284" height="276" alt="13" src="https://github.com/user-attachments/assets/e1d3f765-b230-4d0b-96f7-488a9f3f3b99" />
 
 
 ## Outcome
